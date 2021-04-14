@@ -1,0 +1,17 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### user ###
+.idea
+
+### datasets ###
+data/datasets
+data/alignments/*.fwd
+data/alignments/*.priors
+data/alignments/*.rev
+data/alignment/*.fwd
+data/alignment/*.priors
+data/alignment/*.rev
