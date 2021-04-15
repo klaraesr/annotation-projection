@@ -1,0 +1,5 @@
+beautifulsoup4~=4.9.3
+deep_translator~=1.4.2
+spacy~=2.0.12
+pandas~=1.2.4
+ipython~=7.22.0
